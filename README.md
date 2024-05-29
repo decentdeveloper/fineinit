@@ -1,5 +1,4 @@
-
-#File Integrity Monitoring System
+#File-Integrity-Monitoring-System
 **Project Overview**
 The File Integrity Monitoring System (FIMS) is designed to ensure the integrity and security of files within a designated directory by utilizing cryptographic hashing. The system offers two main functionalities: collecting a baseline hash of the files in the target directory and continuously monitoring the files against this baseline to detect any changes, additions, or deletions. This proactive approach helps in identifying unauthorized changes to files, which is critical for maintaining system security and integrity.
 
