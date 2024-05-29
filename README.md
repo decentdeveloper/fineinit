@@ -1,0 +1,2 @@
+# fineinit
+file integrity checker
