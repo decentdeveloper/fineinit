@@ -39,3 +39,5 @@ Monitor Files: Continuously monitor the files in the specified directory against
 		Run the script.
 		Select option "B" to start monitoring the files.
 		The system will continuously check the target directory against the saved baseline and notify the user of any changes.
+  ![image](https://github.com/decentdeveloper/fineinit/assets/95294686/0d30f5d1-dd20-4ea0-b457-d9f6f85ad41e)
+
